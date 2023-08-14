@@ -1,0 +1,19 @@
+{
+  "name": "esmodules",
+  "version": "1.0.0",
+  "description": "teste dos modulos ecmascript",
+  "main": "index.js",
+  "dependencies": {
+    "esmoduletest": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "teste"
+  ],
+  "author": "luiz",
+  "license": "ISC",
+  "type": "module"
+}

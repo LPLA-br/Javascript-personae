@@ -1,0 +1,21 @@
+{
+	"nome" : "Teste",
+	"idade" : "67",
+	"numeros" : [1, "cinco", 5.5, 11],
+	"animais" :
+		{
+			"lelo":
+				{
+					"nome" : "Lelo",
+					"idade":5,
+					"peso":34.5
+				},
+			"joris":
+				{
+					"nome" : "joris",
+					"idade":6,
+					"peso":35.2
+				}
+		},
+	"conjuge": null
+}

@@ -1,0 +1,15 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "antereact.js",
+  "scripts": {
+    "test": "ls"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "luiz",
+  "license": "ISC",
+  "type":"module"
+}

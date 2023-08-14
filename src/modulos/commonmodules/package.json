@@ -1,0 +1,19 @@
+{
+  "type": "common",
+  "name": "commonmodules",
+  "version": "1.0.0",
+  "description": "testando modulos",
+  "main": "index.js",
+  "dependencies": {
+    "moduloTeste": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "teste"
+  ],
+  "author": "luiz",
+  "license": "ISC"
+}
