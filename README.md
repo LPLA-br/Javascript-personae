@@ -5,7 +5,7 @@
     Este repositório contém anotações
     e códigos javascript para o interpretador
     assícrono node. Códigos velhos e novos
-    residem aqui podendo servir como refreso à
+    residem aqui podendo servir como refresco à
     memória do programador que o gerencia.
 </p>
 
